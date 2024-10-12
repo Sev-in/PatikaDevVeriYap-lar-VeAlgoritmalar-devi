@@ -71,4 +71,8 @@ iniyoruz. 4, 5'ten büyük mü küçük mü? Elbette küçük bu yüzden 5'in de
 4, 1'den büyük bu yüzden sağ alt ağaca iniyoruz. Son olarak 4, 3'ten büyük olduğu için sağ alta yerleştirdik.
 
 
+
+
+
+
 """
